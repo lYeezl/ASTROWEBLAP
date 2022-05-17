@@ -1,0 +1,62 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    line-height: 1.5;
+    color: #fff;
+}
+
+ul{
+    font-size: 20px;
+    font-style: none;
+}
+
+.navbar{
+    background-color: rgb(58, 105, 158);
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    padding: 43px;
+    position: fixed;
+    
+
+}
+
+.logo{
+    font-size: 30px;
+    display: flex;
+}
+.navbar ul{
+    padding: 5px;
+    width: 400px;
+    
+}
+.navbar li{
+   
+
+    padding: 20px;
+
+    display: inline;
+}
+
+ a
+ {
+    
+     text-decoration: none;
+     color: #fff;
+     }
+
+.container{
+    
+    width: 800px;
+    margin: 0 auto;
+    justify-content: space-between
+
+}
+
+
+
